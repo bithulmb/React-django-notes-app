@@ -23,7 +23,6 @@ A simple Notes application built using Django for the backend and React for the 
 ### Frontend
 - **React**: JavaScript library for building user interfaces
 - **Axios**: For making HTTP requests
-- **Bootstrap**: For styling the application
 
 ---
 
@@ -82,13 +81,13 @@ $ cd <your-repo>
 
 3. Start the development server:
    ```bash
-   $ npm start
+   $ npm run dev
    ```
 
 ### Access the Application
 
 - Backend API: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
-- Frontend: [http://localhost:3000/](http://localhost:3000/)
+- Frontend: [http://localhost:5173/](http://localhost:5173/)
 
 ---
 
